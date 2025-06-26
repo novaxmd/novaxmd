@@ -51,8 +51,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=psychomita&locale=en&hide_title=false&title_color=ffffff&card_width=400&langs_count=8&bg_color=161b22&stroke=FFFFFF&text_color=c9cacc&hide_border=false&border=FFFFFF&hide_progress=true" width="49%" />
 </p> -->
 
-[![GitHub Metrics](https://img.shields.io/badge/-informational?&label=GitHub+Metrics&style=social)](https://metrics.lecoq.io/about/psychomita)
-![](https://komarev.com/ghpvc/?username=psychomita)
+[![GitHub Metrics](https://img.shields.io/badge/-informational?&label=GitHub+Metrics&style=social)](https://metrics.lecoq.io/about/novaxmd)
+![](https://komarev.com/ghpvc/?username=novaxmd)
 <a href="https://github.com/novaxmd?tab=followers"><img src="https://img.shields.io/github/followers/psychomita?label=Followers&style=social" alt="GitHub Badge"></a>
 
 # LeetCode Statistics
