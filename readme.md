@@ -1,6 +1,4 @@
-# 💫 𝗡𝗢𝗩𝗔-𝗫𝗠𝗗🚀:
-👨‍💻 Frontend Web Developer<br>⚡ Tech Content Creator<br>💼 Open To Job Opportunities<br>🌎 bmb200.com <br>
-
+𝗡𝗢𝗩𝗔-𝗫𝗠𝗗 🖥️
 
 <a><img src='https://files.catbox.moe/w145zu.jpg'/>
 
