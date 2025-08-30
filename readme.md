@@ -2,6 +2,9 @@
 👨‍💻 Frontend Web Developer<br>⚡ Tech Content Creator<br>💼 Open To Job Opportunities<br>🌎 bmb200.com <br>
 
 
+<a><img src='https://files.catbox.moe/w145zu.jpg'/>
+
+
 ## 🌐 Socials:
 [![github](https://img.shields.io/badge/github-%230077B5.svg?logo=github&logoColor=white)](https://github.com/in/bmb200) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/bmb_xmd) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bmb_xmd) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@bmb_md) 
 
@@ -61,7 +64,7 @@
 
 *[Contact me](bmbxmd@gmail.com) if we can discuss or work upon something!*
 
-
+<a><img src='https://files.catbox.moe/w145zu.jpg'/>
 
 ## 🚀 Most Contributed Repo
 
