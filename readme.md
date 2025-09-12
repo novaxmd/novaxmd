@@ -55,8 +55,6 @@
   
 ![LeetCode Stats](https://leetcard.jacoblin.cool/psychomita?theme=dark&font=Pontano%20Sans&ext=heatmap)
 
-*[Contact me](bmbxmd@gmail.com) if we can discuss or work upon something!*
-
 <a><img src='https://files.catbox.moe/w145zu.jpg'/>
 
 ## 🚀 Most Contributed Repo
