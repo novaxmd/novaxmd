@@ -51,10 +51,6 @@
 ![](https://komarev.com/ghpvc/?username=novaxmd)
 <a href="https://github.com/novaxmd?tab=followers"><img src="https://img.shields.io/github/followers/psychomita?label=Followers&style=social" alt="GitHub Badge"></a>
 
-# LeetCode Statistics
-  
-![LeetCode Stats](https://leetcard.jacoblin.cool/psychomita?theme=dark&font=Pontano%20Sans&ext=heatmap)
-
 <a><img src='https://files.catbox.moe/ktr7qs.jpg'/>
 
 ## 🚀 Most Contributed Repo
