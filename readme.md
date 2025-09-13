@@ -55,7 +55,7 @@
   
 ![LeetCode Stats](https://leetcard.jacoblin.cool/psychomita?theme=dark&font=Pontano%20Sans&ext=heatmap)
 
-<a><img src='https://files.catbox.moe/w145zu.jpg'/>
+<a><img src='https://files.catbox.moe/ktr7qs.jpg'/>
 
 ## 🚀 Most Contributed Repo
 
