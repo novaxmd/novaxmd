@@ -1,6 +1,6 @@
 𝗡𝗢𝗩𝗔-𝗫𝗠𝗗 🖥️
 
-<a><img src='https://i.ibb.co/wNYk3Xh2/image.jpg'/>
+<a><img src='https://files.catbox.moe/hka1gj.jpg'/>
 
 
 ## 🌐 Socials:
