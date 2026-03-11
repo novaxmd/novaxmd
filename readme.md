@@ -1,6 +1,6 @@
 𝗡𝗢𝗩𝗔-𝗫𝗠𝗗 🖥️
 
-<a><img src='https://files.catbox.moe/hka1gj.jpg'/>
+<a><img src='https://bmburl.zone.id/novatech255.jpg'/>
 
 
 ## 🌐 Socials:
