@@ -1,7 +1,11 @@
 𝗡𝗢𝗩𝗔-𝗫𝗠𝗗 🖥️
 
-<a><img src='https://i.ibb.co/4gMnb6qg/bmb.jpg'/>
 
+<div align="center">
+  <a href="https://powertsone666.io">
+    <img src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif" alt="MasterHead" />
+  </a>
+</div>
 
 ## 🌐 Socials:
 [![github](https://img.shields.io/badge/github-%230077B5.svg?logo=github&logoColor=white)](https://github.com/in/novaxmd) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/bmb_md) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bmbxmd) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@bmb-tech) 
@@ -59,3 +63,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=novaxmd&limit=5&theme=blue-green&combine_all_yearly_contributions=true)
 
 
+
+
+<a><img src='https://i.ibb.co/4gMnb6qg/bmb.jpg'/>
