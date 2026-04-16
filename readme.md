@@ -63,9 +63,15 @@
 
 [![Nova's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=novaxmd&theme=github-compact&bg_color=000000&line=009A22&point=98FB98&color=00FF2B&title_color=00FF2B&area=true)](https://github.com/novaxmd/NOVA-XMD)
 
-[![GitHub novaxmd](https://img.shields.io/badge/-informational?&label=GitHub+novaxmd&style=social)](https://novaxmd.lecoq.io/about/novaxmd)
-![](https://komarev.com/ghpvc/?username=novaxmd)
-<a href="https://github.com/novaxmd?tab=followers"><img src="https://img.shields.io/github/followers/psychomita?label=Followers&style=social" alt="GitHub Badge"></a>
+<p align="center">
+  <a href="https://github.com/novaxmd?tab=followers">
+    <img src="https://img.shields.io/github/followers/novaxmd?label=Followers&style=social">
+  </a>
+  <a href="https://github.com/novaxmd">
+    <img src="https://img.shields.io/github/stars/novaxmd?label=Stars&style=social">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=novaxmd&label=Profile%20Views&color=00FF2B&style=flat">
+</p>
 
 
 <a><img src='https://files.catbox.moe/ktr7qs.jpg'/>
@@ -80,63 +86,3 @@
 
 <a><img src='https://i.ibb.co/4gMnb6qg/bmb.jpg'/>
 
-
-
-
-<h1 align="center">NOVA XMD 🚀</h1>
-
-<p align="center">
-  <a href="https://github.com/novaxmd?tab=followers">
-    <img src="https://img.shields.io/github/followers/novaxmd?label=Followers&style=social">
-  </a>
-  <a href="https://github.com/novaxmd">
-    <img src="https://img.shields.io/github/stars/novaxmd?label=Stars&style=social">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=novaxmd&label=Profile%20Views&color=00FF2B&style=flat">
-</p>
-
----
-
-### 👨‍💻 About Me
-- 💻 Developer of **NOVA XMD BOT**
-- ⚡ Focus: WhatsApp Bots, Automation, Web Dev
-- 🌍 Based in Tanzania
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=novaxmd&show_icons=true&theme=tokyonight&hide_border=true">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=novaxmd&theme=tokyonight&hide_border=true">
-</p>
-
----
-
-### 📈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=novaxmd&theme=github-compact&bg_color=000000&line=00FF2B&point=98FB98&color=00FF2B&title_color=00FF2B&area=true">
-</p>
-
----
-
-### 🛠️ Languages & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,git,github,vscode">
-</p>
-
----
-
-### 🔗 Connect With Me
-<p align="center">
-  <a href="https://github.com/novaxmd">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://wa.me/255767862457">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-  </a>
-</p>
-
----
-
-⭐ **Don't forget to follow & star my repos!**
