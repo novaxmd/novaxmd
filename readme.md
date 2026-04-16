@@ -61,9 +61,12 @@
 
 [![Nova's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=novaxmd&theme=github-compact&bg_color=000000&line=009A22&point=98FB98&color=00FF2B&title_color=00FF2B&area=true)](https://github.com/novaxmd/NOVA-XMD)
 
-[![GitHub Metrics](https://img.shields.io/badge/-informational?&label=GitHub+Metrics&style=social)](https://metrics.lecoq.io/about/novaxmd)
+[![Nova's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=novaxmd&theme=github-compact&bg_color=000000&line=009A22&point=98FB98&color=00FF2B&title_color=00FF2B&area=true)](https://github.com/novaxmd/NOVA-XMD)
+
+[![GitHub novaxmd](https://img.shields.io/badge/-informational?&label=GitHub+novaxmd&style=social)](https://novaxmd.lecoq.io/about/novaxmd)
 ![](https://komarev.com/ghpvc/?username=novaxmd)
 <a href="https://github.com/novaxmd?tab=followers"><img src="https://img.shields.io/github/followers/psychomita?label=Followers&style=social" alt="GitHub Badge"></a>
+
 
 <a><img src='https://files.catbox.moe/ktr7qs.jpg'/>
 
