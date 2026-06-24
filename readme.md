@@ -13,7 +13,7 @@
 
 <div align="center">
   <a href="https://powertsone666.io">
-    <img src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif" alt="MasterHead" />
+    <img src="https://url.bmbxmd.workers.dev/bmbxmd.jpeg" alt="MasterHead" />
   </a>
 </div>
 
