@@ -7,7 +7,6 @@
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=novaxmd&layout=compact&theme=chartreuse-dark)
 
 
-
 𝗡𝗢𝗩𝗔-𝗫𝗠𝗗 🖥️
 
 
