@@ -17,7 +17,33 @@
   </a>
 </div>
 
-## 🌐 Socials:
+## 🎯 About Me
+
+```typescript
+const bmbtech = {
+    name: "nova xmd",
+    alias: "Bmb Tech",
+    location: "Tanzania 🇹🇿",
+    role: "Full-Stack Innovator",
+    
+    expertise: {
+        backend: ["Node.js", "Django", "Express", "API Architecture"],
+        frontend: ["React", "HTML5", "CSS3", "Modern UI/UX"],
+        automation: ["WhatsApp Bots", "AI Integration", "Workflow Automation"],
+        blockchain: ["Solidity", "Smart Contracts"],
+        databases: ["PostgreSQL", "MongoDB", "Supabase"]
+    },
+    
+    currentFocus: ["AI-Powered Solutions", "Bot Development", "API Design"],
+    philosophy: "Build with purpose. Innovate through automation. Empower through technology.",
+    
+    lifeGoals: {
+        shortTerm: "Launch 10 production-ready APIs",
+        longTerm: "Revolutionize digital automation in Africa"
+    }
+};
+```
+
 ## 📝 Latest Blog Posts & Activity
 
 <!-- BLOG-POST-LIST:START -->
