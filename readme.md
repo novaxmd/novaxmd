@@ -18,21 +18,64 @@
 </div>
 
 ## 🌐 Socials:
-[![github](https://img.shields.io/badge/github-%230077B5.svg?logo=github&logoColor=white)](https://github.com/in/novaxmd) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/bmb_md) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bmbxmd) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@bmb-tech) 
+## 📝 Latest Blog Posts & Activity
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="45" /> Technologies
+
+<table align="center">
+  <tr>
+    <td align="center" width="116"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" /><br>JavaScript</td>
+    <td align="center" width="116"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" /><br>React</td>
+    <td align="center" width="116"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" /><br>Python</td>
+    <td align="center" width="116"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" /><br>TypeScript</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=go" width="65" /><br>Go</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=html" width="65" /><br>HTML5</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=css" width="65" /><br>CSS3</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=nextjs" width="65" /><br>Next.js</td>
+  </tr>
+  <tr>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=nodejs" width="65" /><br>Node.js</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=express" width="65" /><br>Express.js</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=fastapi" width="65" /><br>FastAPI</td>
+     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=postgres" width="65" /><br>PostgreSQL</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=tailwind" width="65" /><br>Tailwind CSS</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=githubactions" width="65" /><br>GitHub Actions</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=linux" width="65" /><br>Linux</td>
+    <td align="center" width="116"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" /><br>SQL</td>
+  </tr>
+  <tr>
+
+ <td align="center" width="116"><img src="https://skillicons.dev/icons?i=react" width="65" /><br>React Native</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=firebase" width="65" /><br>Firebase</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=supabase" width="65" /><br>Supabase</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=mongodb" width="65" /><br>MongoDB</td>
+    </tr>
+
+</table>
 
 
-## Connect with me
-[![](https://img.shields.io/badge/Facebook-informational?style=flat&logo=Facebook&logoColor=white&color=1877F2)](https://facebook.com/bmbxmd)
-[![](https://img.shields.io/badge/Instagram-informational?style=flat&logo=Instagram&logoColor=white&color=EF2F88)](https://instagram.com/bmbxmd)
-[![](https://img.shields.io/badge/Twitter-informational?style=flat&logo=X&logoColor=white&color=000000)](https://x.com/bmb_md)
-[![](https://img.shields.io/badge/Reddit-informational?style=flat&logo=Reddit&logoColor=C70039&color=white)](https://www.reddit.com/user/psychomita)
-[![](https://img.shields.io/badge/Spotify-informational?style=flat&logo=Spotify&logoColor=36AE7C&color=black)](https://open.spotify.com/user/31lvd3f6xwjksgd6x3kqda3li4a4?si=e9ed27d54e6148a2)
-[![](https://img.shields.io/badge/LeetCode-informational?style=flat&logo=LeetCode&logoColor=FFB000&color=001524)](https://leetcode.com/psychomita/)
-[![](https://img.shields.io/badge/Codechef-informational?style=flat&logo=Codechef&logoColor=white&color=9F8772)](https://www.codechef.com/users/suchismita29)
-[![](https://img.shields.io/badge/Codeforces-informational?style=flat&logo=Codeforces&logoColor=E72929&color=0E46A3)](https://codeforces.com/profile/psychomita)
+
+## ⚙️ DevOps & Deployment
+
+<table align="center">
+  <tr>
+    <td align="center" width="116"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" /><br>Docker</td>
+    <td align="center" width="116"><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="65" /><br>Kubernetes</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=githubactions" width="65" /><br>GitHub Actions</td>
+    <td align="center" width="116"><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" /><br>AWS</td>
+     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=replit" width="65" /><br>Replit</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=netlify" width="65" /><br>Netlify</td>
+  </tr>
+  <tr>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=heroku" width="65" /><br>Heroku</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=vercel" width="65" /><br>Render</td>
+
+   </tr>
+</table>
+
+---
 
 ## Tech Stacks
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,java,python,tensorflow,html,css,js,typescript,tailwind,next,react,nodejs,bun,figma,ubuntu,vercel)](https://skillicons.dev)
