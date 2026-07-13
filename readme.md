@@ -3,10 +3,9 @@
 <a href="https://whatsapp.com/channel/0029VawO6hgF6sn7k3SuVU3z" target="_blank"><img src="https://img.shields.io/badge/Grupo-%808080.svg?&style=flat-square&logo=whatsapp&logoColor=white" alt="Whatsapp"></a>
 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=novaxmd&show_icons=true&theme=chartreuse-dark)
-
-![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=novaxmd&layout=compact&theme=chartreuse-dark)
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:00ff00&height=200&section=header&text=NOVA%20XMD&fontSize=62&fontColor=00ff00&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20SaaS%20Builder%20%7C%20Open%20Source%20%7C%20Tanzania%20🇹🇿&descAlignY=58&descSize=15&descColor=9ca3af&fontFamily=monospace" />
+</p>
 
 𝗡𝗢𝗩𝗔-𝗫𝗠𝗗 🖥️
 
